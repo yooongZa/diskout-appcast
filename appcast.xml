@@ -11,19 +11,6 @@
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/yooongZa/DiskOUT/releases/download/v0.4.2/DiskOUT-0.4.2.dmg" length="4079193" type="application/octet-stream" sparkle:edSignature="hHs2JGgJu6D1deLMP8ryRlnkekIS7TBcnU9kigTokvK0H/mMlEPD3CpBoPeZeI0sYQlApl0Vjp9fczwHxE4hBg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/yooongZa/DiskOUT/releases/download/v0.4.2/DiskOUT2-1.delta" sparkle:deltaFrom="1" length="56354" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="QBAgdhsM70aUoADe+NLC7IUkUra46G5AUWQ3mP/vIsFru0SwyRAKuZB/D57U580wpdS3KjCcOf8+fLLFf2VpBA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.4.1</title>
-            <pubDate>Mon, 18 May 2026 15:20:05 +0900</pubDate>
-            <link>https://github.com/yooongZa/DiskOUT</link>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/yooongZa/DiskOUT/releases/download/v0.4.2/DiskOUT-0.4.1.dmg" length="4074871" type="application/octet-stream" sparkle:edSignature="MVj8iOBP4USB2VKNcWUvxZmLxMQh33Knrgb/q6rrJ59lANYJXK5o3kJpb8CbbPz+8oC7mtpdaVWk4apbYCVhBA=="/>
         </item>
     </channel>
 </rss>

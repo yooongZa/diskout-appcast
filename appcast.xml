@@ -3,14 +3,14 @@
     <channel>
         <title>DiskOUT</title>
         <item>
-            <title>0.5.3</title>
-            <pubDate>Tue, 11 Aug 2026 10:21:46 +0900</pubDate>
+            <title>0.5.4</title>
+            <pubDate>Thu, 13 Aug 2026 10:59:18 +0900</pubDate>
             <link>https://github.com/yooongZa/DiskOUT</link>
-            <sparkle:version>17</sparkle:version>
-            <sparkle:shortVersionString>0.5.3</sparkle:shortVersionString>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>0.5.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/yooongZa/DiskOUT/releases/download/v0.5.3/DiskOUT-0.5.3.dmg" length="4412011" type="application/octet-stream" sparkle:edSignature="EM1ndf08ZeMpB8k/T466cutlXjLB/hewR12Ls4VVElkkso0T946p7m+35T/vKhfNiNi3qo/ZmTsOlt/hIsqIDw=="/>
+            <enclosure url="https://github.com/yooongZa/DiskOUT/releases/download/v0.5.4/DiskOUT-0.5.4.dmg" length="4442259" type="application/octet-stream" sparkle:edSignature="b0WD4+C20ocLXCnMgxloLSzmjlc5THe6V827qLV4B/Ab5gKF7PWBbFQ6Ywa4p6lKn3GI4B5NU8zCl2MyfglQCg=="/>
         </item>
     </channel>
 </rss>
